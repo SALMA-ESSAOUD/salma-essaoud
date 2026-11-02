@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.svg" alt="Salma Essaoud, SOC Analyst et Blue Team" width="100%" />
+<img src="./file.svg" alt="Salma Essaoud, SOC Analyst et Blue Team" width="100%" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Analyste+SOC+en+devenir+%7C+D%C3%A9tection%2C+corr%C3%A9lation%2C+r%C3%A9ponse;J%27%C3%A9cris+des+r%C3%A8gles+de+d%C3%A9tection+et+j%27investigue+les+alertes;%C3%89l%C3%A8ve+ing%C3%A9nieure+en+Cybers%C3%A9curit%C3%A9+%7C+5%C3%A8me+ann%C3%A9e;%F0%9F%8E%AF+%C3%80+la+recherche+d%27un+stage+PFE+en+SOC+%2F+Blue+Team)](https://github.com/SALMA-ESSAOUD)
 
