@@ -1,10 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Salma%20Essaoud&fontSize=52&fontColor=ffffff&animation=fadeIn&desc=SOC%20%26%20Blue%20Team%20%7C%20Purple%20Team%20mindset&descSize=18&descAlignY=68" alt="banner" />
+<img src="./banner.svg" alt="Salma Essaoud, SOC et Blue Team" width="100%" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=8B5CF6&center=true&vCenter=true&width=640&lines=Pour+d%C3%A9tecter+une+attaque%2C+il+faut+savoir+la+mener.;J'%C3%A9cris+des+r%C3%A8gles+de+d%C3%A9tection+qui+attrapent+les+attaquants.;%C3%89l%C3%A8ve+ing%C3%A9nieure+en+Cybers%C3%A9curit%C3%A9+%7C+5%C3%A8me+ann%C3%A9e;%F0%9F%8E%AF+%C3%80+la+recherche+d'un+stage+PFE+en+SOC+%2F+Blue+Team)](https://github.com/SALMA-ESSAOUD)
 
 ![Wazuh](https://img.shields.io/badge/SIEM-Wazuh-005571?style=for-the-badge)
+![Splunk](https://img.shields.io/badge/SIEM-Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![ELK](https://img.shields.io/badge/SIEM-ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
+![Graylog](https://img.shields.io/badge/Logs-Graylog-FF3633?style=for-the-badge)
+![FortiGate](https://img.shields.io/badge/Firewall-FortiGate-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
 ![Suricata](https://img.shields.io/badge/IDS%2FIPS-Suricata-EF3B2D?style=for-the-badge)
 ![MITRE](https://img.shields.io/badge/MITRE-ATT%26CK-C0392B?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -104,9 +108,17 @@ Réseau segmenté WAN/LAN, VPN avec PKI interne, IDS/IPS inline, hardening Linux
 <summary><b>🔵 Défense : SOC / Blue Team</b></summary>
 <br>
 
-`Wazuh` `Splunk` `ELK` `Graylog` `Sysmon` `Suricata` `YARA` `VirusTotal` `FIM` `MITRE ATT&CK` `Syslog`
-`Cortex` `MISP` `OpenCTI` `DFIR-IRIS` `T-Pot` `AbuseIPDB`
-`pfSense` `OPNsense` `FortiGate` `Coraza WAF` `OpenVPN` `Wireshark`
+**SIEM et logs :** `Wazuh` `Splunk` `ELK Stack` `Graylog` `Sysmon` `Syslog`
+
+**Détection :** `Suricata (IDS/IPS)` `YARA` `FIM` `VirusTotal` `MITRE ATT&CK` `Honeypot T-Pot`
+
+**Pare-feu et WAF :** `FortiGate` `pfSense` `OPNsense` `Coraza WAF` `OWASP CRS`
+
+**CTI et réponse à incident :** `Cortex` `MISP` `OpenCTI` `DFIR-IRIS` `AbuseIPDB`
+
+**Réseau et VPN :** `OpenVPN` `PKI` `Wireshark`
+
+**🌱 En apprentissage :** `Microsoft Sentinel` `IBM QRadar` `Sigma` `Zeek`
 </details>
 
 <details>
@@ -152,6 +164,5 @@ Réseau segmenté WAN/LAN, VPN avec PKI interne, IDS/IPS inline, hardening Linux
 
 <sub>Tous les labs sont réalisés dans des environnements isolés, à des fins pédagogiques.</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" alt="footer" />
 
 </div>
